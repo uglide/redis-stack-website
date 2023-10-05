@@ -22,8 +22,8 @@
         }
     },
     "docs": {
-        "git_uri": "https://github.com/redisjson/redisjson",
-        "dev_branch": "master",
+        "git_uri": "https://github.com/uglide/redisjson",
+        "dev_branch": "resp3_doc",
         "path": "docs/docs"
     },
     "releases": {
